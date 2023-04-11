@@ -1,0 +1,8 @@
+GUIDA ALL'INSTALAZZIONE 
+
+Creiamo una nuova cartella nel quale vogliamo conservare i nostri file e creiamo al suo interno un file di testo. 
+Copiamo e Incolliamo all'interno del file di testo tutto il codice presente nel file FolderLock presente nella reposity. 
+alla riga 21 dove c'è scritto "if NOT %pass%== 1234 goto FAIL" modifichiamo la password di default "1234" con una password a nostro piacimento.
+Salviamo il nostro codice con l'estensione.bat per rendere il nostro file eseguibile, per farlo ci occorre semplicemente andare in file>Salva con nome> Rinnominiamo il nostro file con l'estensione.bat "NOMEFILE.bat" e nella voce salva come: Selezioniamo la voce tutti i file
+Bene abbiamo creato il nostro file eseguibile che ci permettera di nascondere al suo interno i nostri file 
+Lanciamo il file batch appena creato, il programma ci crea una nuova cartella 
