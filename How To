@@ -3,11 +3,11 @@ GUIDA ALL'INSTALAZZIONE
 Creiamo una nuova cartella nel quale vogliamo conservare i nostri file e creiamo al suo interno un file di testo. 
 Copiamo e Incolliamo all'interno del file di testo tutto il codice presente nel file FolderLock all'interno della reposity. 
 alla riga 21 dove c'è scritto "if NOT %pass%== 1234 goto FAIL" modifichiamo la password di default "1234" con una password a nostro piacimento.
-Salviamo il nostro codice con l'estensione.bat per rendere il nostro file eseguibile, per farlo ci occorre semplicemente andare in File> Salva con nome> Rinnominiamo il nostro file con l'estensione.bat "NOMEFILE.bat" e nella voce salva come: Selezioniamo la voce tutti i file
+Salviamo il nostro codice con l'estensione.bat per rendere il nostro file eseguibile, per farlo ci occorre semplicemente andare in File> Salva con nome> Rinominiamo il nostro file con l'estensione.bat "NOMEFILE.bat" e nella voce salva come: Selezioniamo la voce tutti i file
 Bene abbiamo creato il nostro file eseguibile che ci permetterà di nascondere al suo interno i nostri file 
-Lanciamo il file batch appena creato, una volta lancito il nostro eseguibile ci restituirà una nuova cartella dal nome Private , all suo interno andranno allocati tutti i nostri file segreti 
-Per bloccare e far sparire la cartella Private e qundi il suo contenuto non ci resta che lanciare il nostro file batch, e premere il tasto "Y" per la conferma 
-Per sbloccarla la cartella e far riaparire i nostri file clicchiamo sul file bat e inseriamo la password che abbiamo scelto 
+Lanciamo il file batch appena creato, una volta lanciato il nostro eseguibile ci restituirà una nuova cartella dal nome Private , all suo interno andranno allocati tutti i nostri file segreti 
+Per bloccare e far sparire la cartella Private e quindi il suo contenuto non ci resta che lanciare il nostro file batch, e premere il tasto "Y" per la conferma 
+Per sbloccarla la cartella e far riapparire i nostri file clicchiamo sul file bat e inseriamo la password che abbiamo scelto 
 
 NB
 ANCHE IL FILE BAT PUO ESSERE NASCOSTO (GUIDA NEL CONTENUTO BONUS) 
@@ -16,7 +16,7 @@ CONTENUTO BONUS
 
 COME NASCONDERE FILE E CARTELLE SU WINDOWS 
 
-Nascondere file e cartelle su Windows è un'operazione semplice ed intuitiva , segui i seguenti passaggi:
+Nascondere file e cartelle su Windows è un'operazione semplice ed intuitiva, segui i seguenti passaggi:
 
 Seleziona il file o la cartella che desideri nascondere.
 Clicca con il tasto destro del mouse sul file o sulla cartella e seleziona Proprietà.
